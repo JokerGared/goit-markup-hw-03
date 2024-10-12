@@ -44,7 +44,7 @@ img {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.h-logo {
+.header-main-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -316,7 +316,7 @@ img {
   max-width: 264px;
 }
 
-.f-logo {
+.footer-main-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
